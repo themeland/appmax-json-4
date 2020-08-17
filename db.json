@@ -1,0 +1,123 @@
+{
+    "themeOneReviewSection": {
+        "reviewDataThree": [
+            {
+                "id": 1,
+                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi facilis dolor sit cum molorum deserunt doloribus.",
+                "image": "/img/avatar_1.jpg",
+                "reviewer": "Junaid Hasan",
+                "reviewerPost": "CEO, PlexDesign"
+            },
+            {
+                "id": 2,
+                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi facilis dolor sit cum molorum deserunt doloribus.",
+                "image": "/img/avatar_2.jpg",
+                "reviewer": "Yasmin Akter",
+                "reviewerPost": "Designer, PlexDesign"
+            },
+            {
+                "id": 3,
+                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi facilis dolor sit cum molorum deserunt doloribus.",
+                "image": "/img/avatar_3.jpg",
+                "reviewer": "Md. Arham",
+                "reviewerPost": "SEO Expert, PlexDesign"
+            },
+            {
+                "id": 4,
+                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi facilis dolor sit cum molorum deserunt doloribus.",
+                "image": "/img/avatar_4.jpg",
+                "reviewer": "Md. Arham",
+                "reviewerPost": "SEO Expert, PlexDesign"
+            },
+            {
+                "id": 5,
+                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi facilis dolor sit cum molorum deserunt doloribus.",
+                "image": "/img/avatar_1.jpg",
+                "reviewer": "Md. Arham",
+                "reviewerPost": "SEO Expert, PlexDesign"
+            },
+            {
+                "id": 6,
+                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi facilis dolor sit cum molorum deserunt doloribus.",
+                "image": "/img/avatar_2.jpg",
+                "reviewer": "Md. Arham",
+                "reviewerPost": "SEO Expert, PlexDesign"
+            },
+            {
+                "id": 7,
+                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi facilis dolor sit cum molorum deserunt doloribus.",
+                "image": "/img/avatar_3.jpg",
+                "reviewer": "Md. Arham",
+                "reviewerPost": "SEO Expert, PlexDesign"
+            },
+            {
+                "id": 8,
+                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi facilis dolor sit cum molorum deserunt doloribus.",
+                "image": "/img/avatar_4.jpg",
+                "reviewer": "Md. Arham",
+                "reviewerPost": "SEO Expert, PlexDesign"
+            },
+            {
+                "id": 9,
+                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi facilis dolor sit cum molorum deserunt doloribus.",
+                "image": "/img/avatar_1.jpg",
+                "reviewer": "Md. Arham",
+                "reviewerPost": "SEO Expert, PlexDesign"
+            }
+        ],
+        "iconData": [
+            {
+                "id": 1,
+                "iconClass": "fas fa-star text-warning"
+            },
+            {
+                "id": 2,
+                "iconClass": "fas fa-star text-warning"
+            },
+            {
+                "id": 3,
+                "iconClass": "fas fa-star text-warning"
+            },
+            {
+                "id": 4,
+                "iconClass": "fas fa-star text-warning"
+            },
+            {
+                "id": 5,
+                "iconClass": "fas fa-star text-warning"
+            }
+        ]
+    },
+    "themeOneFaqSection": {
+        "heading": "Have questions? Look here",
+        "headingText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati dignissimos quae quo ad iste ipsum officiis deleniti asperiores sit.",
+        "headingTextTwo": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati.",
+        "faqData": [
+            {
+                "id": 1,
+                "title": "What are the benifits of App landing page?",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt eius quia voluptatem maiores, quod ipsa odit! Mollitia fugit voluptatum cumque esse, omnis earum, dolore maxime ex dolores voluptate. Ipsam, fugit in delectus maxime vitae aut hic dolor eius quasi minima."
+            },
+            {
+                "id": 2,
+                "title": "What about the features?",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt eius quia voluptatem maiores, quod ipsa odit! Mollitia fugit voluptatum cumque esse, omnis earum, dolore maxime ex dolores voluptate. Ipsam, fugit in delectus maxime vitae aut hic dolor eius quasi minima."
+            },
+            {
+                "id": 3,
+                "title": "How to download the extended licence?",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt eius quia voluptatem maiores, quod ipsa odit! Mollitia fugit voluptatum cumque esse, omnis earum, dolore maxime ex dolores voluptate. Ipsam, fugit in delectus maxime vitae aut hic dolor eius quasi minima."
+            },
+            {
+                "id": 4,
+                "title": "Can I have to pay again for this product?",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt eius quia voluptatem maiores, quod ipsa odit! Mollitia fugit voluptatum cumque esse, omnis earum, dolore maxime ex dolores voluptate. Ipsam, fugit in delectus maxime vitae aut hic dolor eius quasi minima."
+            },
+            {
+                "id": 5,
+                "title": "Will the support included in product?",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt eius quia voluptatem maiores, quod ipsa odit! Mollitia fugit voluptatum cumque esse, omnis earum, dolore maxime ex dolores voluptate. Ipsam, fugit in delectus maxime vitae aut hic dolor eius quasi minima."
+            }
+        ]
+    }
+}
